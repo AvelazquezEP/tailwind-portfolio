@@ -1,0 +1,13 @@
+.circle {
+    display: inline-block;
+    margin-left: 55px;
+    height: 210px;
+    width: 210px;
+    border-radius: 100%;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
